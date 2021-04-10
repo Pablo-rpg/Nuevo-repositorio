@@ -1,0 +1,11 @@
+- madera
+ - clavos 
+- martillo
+ - pegamento
+-boceto
+ - cortadora
+- herramientas
+ - mano de obra 
+- presupuesto
+ - conocimiento 
+- medidas
